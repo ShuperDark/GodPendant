@@ -1,0 +1,2 @@
+# GodPendant
+EntityPlayer$damageEntityをフックすることがメイン。フックしても何も処理しないので落ちる。
