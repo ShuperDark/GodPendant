@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "godpendant",
+
+    "pattern": [
+      "XXX",
+      "X X",
+      " # "
+    ],
+
+    "key": {
+      "X": { "item": "minecraft:gold_ingot", "data": 0 },
+      "#": { "item": "minecraft:beacon", "data": 0 }
+    },
+
+    "result": { "item": "godpendant:godpendant", "data": 0, "count": 1 }
+}
